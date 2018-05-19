@@ -4,7 +4,7 @@
       "title": "Search",
       "data": {
         "items": {
-          "@": "items@https://api.github.com/search/repositories?q=json"
+          "@": "items@http://wiki.hipatia.net/index.php/Space-Kerala:WeeklyTarget"
         }
       },
       "templates": {
