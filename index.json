@@ -4,7 +4,7 @@
       "title": "Search",
       "data": {
         "items": {
-          "@": "items@http://wiki.hipatia.net/index.php/Space-Kerala:WeeklyTarget"
+          "@": "items@http://192.168.0.147/index.php/wp-json/wp/v2/posts"
         }
       },
       "templates": {
